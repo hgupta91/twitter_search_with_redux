@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/twitter_search/static/css/main.a72646c1.chunk.css",
-    "main.js": "/twitter_search/static/js/main.a6deceae.chunk.js",
-    "main.js.map": "/twitter_search/static/js/main.a6deceae.chunk.js.map",
+    "main.css": "/twitter_search/static/css/main.a0cfc7e2.chunk.css",
+    "main.js": "/twitter_search/static/js/main.b2d72578.chunk.js",
+    "main.js.map": "/twitter_search/static/js/main.b2d72578.chunk.js.map",
     "runtime~main.js": "/twitter_search/static/js/runtime~main.bfeb2eb6.js",
     "runtime~main.js.map": "/twitter_search/static/js/runtime~main.bfeb2eb6.js.map",
     "static/css/2.266e55a5.chunk.css": "/twitter_search/static/css/2.266e55a5.chunk.css",
-    "static/js/2.c7b4320c.chunk.js": "/twitter_search/static/js/2.c7b4320c.chunk.js",
-    "static/js/2.c7b4320c.chunk.js.map": "/twitter_search/static/js/2.c7b4320c.chunk.js.map",
+    "static/js/2.8ed68fd0.chunk.js": "/twitter_search/static/js/2.8ed68fd0.chunk.js",
+    "static/js/2.8ed68fd0.chunk.js.map": "/twitter_search/static/js/2.8ed68fd0.chunk.js.map",
     "index.html": "/twitter_search/index.html",
-    "precache-manifest.558bf69a06745e23cd5063dbe5d955de.js": "/twitter_search/precache-manifest.558bf69a06745e23cd5063dbe5d955de.js",
+    "precache-manifest.b763187f0a864a4032f5842f393fddcc.js": "/twitter_search/precache-manifest.b763187f0a864a4032f5842f393fddcc.js",
     "service-worker.js": "/twitter_search/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/twitter_search/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.a72646c1.chunk.css.map": "/twitter_search/static/css/main.a72646c1.chunk.css.map"
+    "static/css/main.a0cfc7e2.chunk.css.map": "/twitter_search/static/css/main.a0cfc7e2.chunk.css.map",
+    "static/media/twitter.svg": "/twitter_search/static/media/twitter.a57ea219.svg"
   }
 }
